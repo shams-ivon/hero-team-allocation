@@ -91,8 +91,6 @@ const App = () => {
           element={
             <CurrentTeamMembers 
               heroes={heroes}
-              team={team}
-              
             />
           }
         />
